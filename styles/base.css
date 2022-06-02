@@ -1,0 +1,18 @@
+h1 .slidev-icon{font-size:.8em}
+.blockcode{
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  font-size: 0.4em;
+  line-height: 1;
+  display: inline-block;
+  border-radius: 0.25rem;
+  font-family: "Fira Code",ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+  background-color: var(--prism-background);
+  --tw-text-opacity: 1;
+  color: rgba(16, 185, 129, var(--tw-text-opacity));
+}
+
+.col-right{margin-left: 1em;}
+.slidev-page-9 .text-sm{margin-bottom: 0;}
